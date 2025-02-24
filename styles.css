@@ -1,4 +1,3 @@
-
 @platesize:350px; // sets width and height
 @pitwidth:32px; // the width of each pit. 32 seems to work best
 @rotate:(360/@to)+0deg; // how far to rotate each slice depends on how many slices you have
